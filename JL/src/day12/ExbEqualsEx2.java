@@ -11,6 +11,7 @@ public class ExbEqualsEx2 {
 		String str2 = new String("Hello");
 		String str3 = "Hello";
 		
+		//==로 비교
 		if(str1==str2) {
 			System.out.println(" == : 두 문자열이 같다?");
 		}else {
